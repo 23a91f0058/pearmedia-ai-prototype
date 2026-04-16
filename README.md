@@ -12,4 +12,4 @@
 Open index.html in browser
 
 ## Live Link
-PASTE YOUR NETLIFY LINK HERE
+ https://23a91f0058.github.io/pearmedia-ai-prototype/
